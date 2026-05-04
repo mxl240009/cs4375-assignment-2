@@ -1,0 +1,4 @@
+torch>=2.0.0
+torchtext>=0.15.0
+spacy>=3.5.0
+sacrebleu>=2.3.0
